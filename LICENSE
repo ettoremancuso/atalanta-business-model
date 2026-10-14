@@ -1,0 +1,13 @@
+Copyright (c) 2026 Ettore Mancuso. All rights reserved.
+
+This repository is published so that it can be read and evaluated, for example
+by recruiters, reviewers and fellow students. You may view the code, run it on
+your own machine to reproduce the results, and cite the work with attribution.
+
+You may not copy, modify, redistribute or reuse the code, the paper, the Excel
+model, the report or the figures, in whole or in part, without the author's
+prior written permission. To ask for permission: ettoremancuso6@gmail.com
+
+Figures in data/ are taken from Atalanta B.C.'s published financial statements
+as reported by the sources listed in each file (mainly Calcio e Finanza and
+QuiFinanza). Atalanta B.C. is not affiliated with this project.
